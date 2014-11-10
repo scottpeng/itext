@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/itextjar/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/clover-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-asian.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-hyph-xml.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itextpdf-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itextpdf-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-pdfa-5.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-pdfa-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-pdfa-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-xtra-5.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-xtra-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/itextjar/itext-xtra-5.4.2-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
